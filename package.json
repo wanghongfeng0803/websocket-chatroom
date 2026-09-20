@@ -1,0 +1,14 @@
+{
+  "name": "websocket-chatroom",
+  "version": "1.0.0",
+  "description": "WebSocket聊天室（websocket-chatroom）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
